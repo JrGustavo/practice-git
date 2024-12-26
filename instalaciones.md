@@ -2,7 +2,12 @@
 Seguir estos pasos: 
 
 ```
+bun install
+```
 
-npm install
+2. Ejectuar el comando: 
 
 ```
+npm start
+```
+
